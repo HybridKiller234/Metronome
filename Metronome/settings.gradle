@@ -1,1 +1,1 @@
-include ':mobile', ':wear'
+include ':feature', ':app', ':base', ':instantapp', ':wear'
